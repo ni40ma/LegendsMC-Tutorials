@@ -4,5 +4,6 @@
 
 ## Contribute
 
-* [How to contribute](contribute/contribute.md)
+* [How to contribute](contribute/how-to-contribute.md)
+* [How to edit](contribute/how-to-edit.md)
 

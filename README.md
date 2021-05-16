@@ -6,11 +6,7 @@ description: test page description
 
 test content
 
-test content from github
-hello 
+test content from github hello
 
-
-{% embed url="https://www.youtube.com/embed/3bCJKxzs3ns" %}
-
-
+{% embed url="https://www.youtube.com/embed/3bCJKxzs3ns" caption="" %}
 
