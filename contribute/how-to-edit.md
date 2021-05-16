@@ -1,3 +1,7 @@
+---
+description: You can edit tutorials using markdown to stylize your changes
+---
+
 # How to edit
 
 ## How to Edit a Tutorial
