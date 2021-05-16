@@ -10,5 +10,7 @@ test content from github
 
 
 
-[https://www.youtube.com/embed/3bCJKxzs3ns](https://www.youtube.com/embed/3bCJKxzs3ns)
+{% embed url="https://www.youtube.com/embed/3bCJKxzs3ns" %}
+
+
 
